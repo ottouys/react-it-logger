@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2023-02-01T09:29:56.316Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Fixed 002 harddrive",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2023-02-01T13:12:38.348Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
